@@ -4,8 +4,10 @@ const ImageWrap = () => {
   return (
     <div className="md:w-[43.66%] w-full z-10 rounded-b-full overflow-hidden px-3 relative">
       <div className="circle bg-gray-300 w-80 h-80 absolute -z-10 top-0"></div>
-      <img
+      <Image
         src="/simple.png"
+        height={100}
+        width={100}
         className="w-full h-max object-contain"
         alt="Hero Image"
       />
