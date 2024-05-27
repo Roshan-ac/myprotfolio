@@ -23,7 +23,7 @@ const HeroSection = () => {
             </div>
             <div className="my-8  flex items-center gap-6 ">
               <p className="transition-all flex flex-col cursor-pointer group duration-500 space-y-2 ease-in-out px-2">
-                <a href="">Let's begin our journey.</a>
+                <a href="">Let&apos;s begin our journey.</a>
                 <span className=" inline-block bg-green-600 group-hover:bg-orange-300 w-28 h-1 rounded-xl"></span>
               </p>
             </div>
