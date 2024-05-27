@@ -1,4 +1,4 @@
-import HeroSection from "./Components/HeroSection";
+import HeroSection from "./Components/HeroSection/HeroSection";
 import MovingLines from "./Components/MovingBgLine/MovingLines";
 import { Navbar } from "./Components/Navbar";
 
