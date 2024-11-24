@@ -52,7 +52,7 @@ const HeroSection = () => {
               <div className="space-y-4">
                 <h1 className="text-4xl md:text-5xl font-bold text-white space-y-3">
                   <span className="text-neutral-400 font-normal text-2xl block mb-2">
-                    Hello, I'm
+                    Hello, I&lsquo;m
                   </span>
                   <span className="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-emerald-500 to-teal-500 animate-gradient">
                     Resham Acharya
