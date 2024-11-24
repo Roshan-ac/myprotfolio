@@ -1,15 +1,13 @@
-import HeroSection from "./Components/HeroSection/HeroSection";
+import HeroSection from "./Components/HeroSection";
 import MovingLines from "./Components/MovingBgLine/MovingLines";
 import { Navbar } from "./Components/Navbar";
 
-function App() {
+
+export default function Home() {
   return (
-    <div className=" relative overflow-hidden">
+    <main >
       <MovingLines/>
-      <Navbar />
       <HeroSection />
-    </div>
+    </main>
   );
 }
-
-export default App;
